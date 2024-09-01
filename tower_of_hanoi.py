@@ -1,4 +1,5 @@
 # Tower Of Hanoi
+# Tower of Hanoi is the implementation of stack
 
 import time
 class Tower:
